@@ -1,0 +1,1 @@
+/home/nr52/gitroot/vtkexamples/opacity/build/CMakeFiles/Opacity.dir
